@@ -125,7 +125,7 @@
                     </div>
 
                     <div class="input_field">
-                        <lable>Name</lable>
+                        <lable>enter Name</lable>
                         <input type="text" class="input" name="name" required>
                     </div>
 
