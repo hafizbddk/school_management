@@ -1,0 +1,15 @@
+.container{
+    padding:30px 70px;
+}
+.input_field{
+    margin-bottom: 20px;
+}
+h1{
+    color:rgb(68, 0, 255);
+}
+.btn{
+    cursor: pointer;
+}
+.update_btn{
+    margin-top: 40px;
+}
